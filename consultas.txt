@@ -1,0 +1,2 @@
+recetas_disponibles([harina, tomate], Recetas).
+ingredientes(pizza, Ingredientes).
